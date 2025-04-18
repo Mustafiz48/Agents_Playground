@@ -8,20 +8,20 @@ This repository is designed for testing various concepts in autonomous agent and
 
 ## Getting Started
 
-1. **Clone the repo:**
+**Clone the repo:**
 
    ```
    git clone https://github.com/Mustafiz48/Agents_Playground.git
    cd Agents_Playground
    ```
-Set up your environment:
+**Set up your environment:**
 ```
 python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-To run the web agent:
+**To run the web agent:**
 
 1. Checkout to app folder:
    ```
