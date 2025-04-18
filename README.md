@@ -20,7 +20,14 @@ python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
 pip install -r requirements.txt
 ```
-Run an example:
+
+To run the web agent:
+
+1. Checkout to app folder:
+   ```
+   cd app
+   ```
+2. Launch the agent:
 ```
-python main.py
+adk web
 ```
