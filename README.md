@@ -20,6 +20,9 @@ python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
 pip install -r requirements.txt
 ```
+**Create .env file:**
+
+Create a .env file following .env.example with you credentials
 
 **To run the web agent:**
 
